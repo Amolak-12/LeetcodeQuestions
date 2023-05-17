@@ -8,6 +8,8 @@ int main() {
   int maxi = -99999;
   int mini = 9999999;
 
+  // bhh
+
   for (int i = 0; i < maximini.size(); i++) {
     if (maximini[i] > maxi) {
       maxi = maximini[i];
